@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "../faqapp/node_modules/bootstrap/dist/css/bootsrap.css"
+              "./node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
               "../faqapp/node_modules/jquery/dist/jquery.js",
