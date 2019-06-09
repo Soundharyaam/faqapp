@@ -2,6 +2,11 @@
 
 FAQ application is the simple Angular application which works on the basis of the Bootstrap and LocalStorage. You can add and remove question and answers in the application with data persistence as this is working on the protocol of browser's localStorage.
 
+## Technologies used
+
+Angular   : Version 7
+Bootstrap : Version 4
+
 ## Author
 
 [Soundharya AM](https://github.com/Soundharyaam)
