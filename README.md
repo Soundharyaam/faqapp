@@ -1,5 +1,15 @@
 # Faqapp
 
+FAQ application is the simple Angular application which works on the basis of the Bootstrap and LocalStorage. You can add and remove question and answers in the application with data persistence as this is working on the protocol of browser's localStorage.
+
+Author
+
+Soundharya AM
+
+Contributions
+
+Feel free to make a PR or create an issue, if you wanna add new feature to this application.
+
 Static question and answer with property binding
 
 ![Property Binding](../master/images/1.png)
