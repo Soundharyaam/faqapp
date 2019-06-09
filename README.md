@@ -6,4 +6,4 @@ Static question and answer with property binding
 
 Emitting the form element
 
-![Emit form element](../master/images/1.png)
+![Emit form element](../master/images/2.png)
