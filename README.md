@@ -4,8 +4,9 @@ FAQ application is the simple Angular application which works on the basis of th
 
 ## Technologies used
 
-Angular   : Version 7
-Bootstrap : Version 4
+Angular   :  v7
+
+Bootstrap :  v4
 
 ## Author
 
