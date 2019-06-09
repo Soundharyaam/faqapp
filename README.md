@@ -19,3 +19,7 @@ Adding remove button
 Removing the entry
 
 ![Remove entry](../master/images/5.png)
+
+Retaining the content by adding and removing the element to and from local Storage, respectively.
+
+![Local Storage](../master/images/6.png)
