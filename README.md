@@ -19,3 +19,7 @@ Adding remove button
 Removing the entry
 
 ![Remove entry](../master/images/5.png)
+
+Local Storage
+
+![Local Storage](../master/images/6.png)
