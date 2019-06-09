@@ -11,3 +11,11 @@ Emitting the form element
 Adding the form element as the first entry
 
 ![First entry](../master/images/3.png)
+
+Adding remove button
+
+![Remove button](../master/images/4.png)
+
+Removing the entry
+
+![Remove entry](../master/images/5.png)
