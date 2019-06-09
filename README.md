@@ -8,7 +8,7 @@ Angular   :  v7
 
 Bootstrap :  v4
 
-## Authors
+## Author
 
 [Soundharya AM](https://github.com/Soundharyaam)
 
